@@ -1,1 +1,1 @@
-Replace this folder with the pre_trained_models folder found in this link:
+Replace this folder with the pre_trained_models folder found in this link: [https://drive.google.com/drive/folders/15BBth9MF7EJjTevqfE8dN0-_3sZ7mFiz?usp=sharing](https://drive.google.com/drive/folders/15BBth9MF7EJjTevqfE8dN0-_3sZ7mFiz?usp=sharing)
