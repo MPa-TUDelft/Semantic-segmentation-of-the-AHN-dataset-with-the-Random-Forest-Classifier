@@ -7,6 +7,6 @@ Supervisors:
 1. Ravi Peters
 2. Weixiao Gao
 
-<img src="images/cover_front.pdf">
+<img src="src/images/cover_front.png">
 
 ## How to run
