@@ -9,6 +9,5 @@ Supervisors:
 
 <img src="src/images/cover_front.PNG">
 
-TU Delft Repository link: [http://](http://)
 
 ## How to run
