@@ -11,9 +11,11 @@ Supervisors:
 
 
 ## How to run
-
+Set up virtual environment for Python using Anaconda.
 Install dependencies with 
 
 ```bash
 pip install -r requirements.txt
 ```
+
+You may experience problems when installing the following packages Fiona, PDAL, CGAL (python bindings). Try installing them through the Anaconda Navigator.
