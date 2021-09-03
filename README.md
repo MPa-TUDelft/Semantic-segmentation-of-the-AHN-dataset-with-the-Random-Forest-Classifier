@@ -11,9 +11,14 @@ Supervisors:
 
 
 ## How to run
-Set up virtual environment for Python using Anaconda.
+
+Download the datasets from the link provided in the data folder.
+
 Install dependencies with 
 
 ```bash
 pip install -r requirements.txt
 ```
+
+Run train_RFC_AHN3.py to train a Random Forest.
+Run test_RFC_AHN3.py to test the Random Forest.
